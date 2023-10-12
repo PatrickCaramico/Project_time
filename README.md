@@ -1,6 +1,6 @@
 # Project_time
 
-<p>API de clima com pesquisa</p>
+<p>Weather API with Search</p>
 
 ## Readme Contents:
 - [Summary](#summary)
