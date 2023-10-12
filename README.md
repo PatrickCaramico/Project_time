@@ -5,7 +5,6 @@
 ## Readme Contents:
 - [Summary](#summary)
   - [About the project](#about)
-  - [Screenshot](#screenshot)
   - [preview](#preview)
 - [My code](#codes)
   - [HTML](#html)
@@ -13,24 +12,14 @@
   - [Javascript](#js)
 - [Process](#process)
   - [Designed](#designed)
-
-
-
-
-
-
-
-
-
+  - [Learned](#learned)
+- [Autor](#autor)
+  - [link](#link)  
 
 ## summary
 
 ### about
 <p>Esse projeto é uma ideia de com API que mostra o clima numa localização expecifica, quando o usuario pesquisa sobre essa região, essa ideia foi um project criado pelo "AsmrProg", onde ele apresentava esse projeto para fazer.</p>
-
-### screenshot
-
-<img src="Protocol_image/Tela_inicial.png" align="left" height="500px"/>
 
 ### preview
 
@@ -59,5 +48,25 @@
 
 ### designed
 
+- Semantic HTML;
+- CSS priorities;
+- API;
+- Javascript functions;
+- Weather API.
 
+### learned
+
+🟢 API Weather; <br>
+
+## Autor
+
+### autor
+
+[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
+[![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)](https://twitter.com/CaramicoPatrick)
+
+### link
+
+**Link to acess the project:**
+https://time-project-api.netlify.app/
 
