@@ -14,7 +14,8 @@
   - [Designed](#designed)
   - [Learned](#learned)
 - [Autor](#autor)
-  - [link](#link)  
+  - [Credits](#credits)
+  - [link](#link)
 
 ## summary
 
@@ -64,6 +65,11 @@
 
 [![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
 [![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)](https://twitter.com/CaramicoPatrick)
+[![GitHub Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico)
+
+### credits
+
+[![GitHub Badge](https://img.shields.io/badge/Asmr%20ProgYT-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AsmrProg-YT)](https://github.com/AsmrProg-YT)
 
 ### link
 
