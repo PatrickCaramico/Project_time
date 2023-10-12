@@ -20,7 +20,7 @@
 ## summary
 
 ### about
-<p>Esse projeto é uma ideia de com API que mostra o clima numa localização expecifica, quando o usuario pesquisa sobre essa região, essa ideia foi um project criado pelo "AsmrProg", onde ele apresentava esse projeto para fazer.</p>
+<p>This project is an idea with an API that shows the weather in a specific location when the user searches for that region. This idea was a project created by "AsmrProg," where he presented this project to do.</p>
 
 ### preview
 
